@@ -1,1 +1,1 @@
-Henüz başlamadık
+#Henüz başlamadık
